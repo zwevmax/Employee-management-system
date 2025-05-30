@@ -1,25 +1,3 @@
-/*         UNIVERSITY OF GONDAR
-          COLLEGE OF INFORMATICS
-	  DEPARTMENT OF COMPUTER SCIENCE
-        PROGRAMMING PROJECT FOR SECOND YEAR STUDENT
-     STUDENT ID              STUDENT NAME
-	 GUR/01575/15            Eyerusalem Tsegaye
-	 GUR/01753/15            Kalkidan Zemedkun
-	 GUR/01623/15            Ketsebaot Tariku
-	 GUR/02368/15            Kidest  Chombe
-	  
-	  
-	                                             submitted to Mr. Kibret.Z  
-	                                             submission date Jan 7,2025
-	                                        
-*/
-
-/*INTRODUCTION
-This C++ program implements an Employee Management System , allowing for the addition, display, and file storage of employee data for
-those who works in college of informatics.It defines a structure to store essential employee details such as ID, name, age, salary, 
-managerial status, and department.The program supports functionality to filter and display employees based on their department, 
-along with options to save and load data from a binary file.Overall, it facilitates efficient management of employee records, 
-enhancing usability for administrative tasks in any organization.*/
 
 #include <iostream>
 #include <fstream>
